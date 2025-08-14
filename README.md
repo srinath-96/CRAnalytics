@@ -17,3 +17,7 @@ I havent played this game in over a year but came across a dude on ig who did a 
 The idea is to create a real time script first thata actively updates my dataset and accounts for dupe entries. once sample size is big enough(i played enough), i can do play by play analysis. 
 
 Realistically an LLM will only ever come into play if an when i strategize how to improve my performance and i need recommendations. We are not even close to that stage yet. We will also need to deal with real time data so that our analysis can scale for time. 
+
+EDIT:
+
+I booted the game up after a year and it is already not looking good :(
