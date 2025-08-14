@@ -4,8 +4,11 @@ Using Royale API to get real time data on my wins and losses to analyze my win p
 
 Tools to use:
 Royale API for data prep
-Python
+
+Python + Maybe scala if i want to use Spark
+
 Tableau for visualizations if any
+
 Plotly for viz as well if needed
 
 
