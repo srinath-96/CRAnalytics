@@ -21,3 +21,6 @@ Realistically an LLM will only ever come into play if an when i strategize how t
 EDIT:
 
 I booted the game up after a year and it is already not looking good :(
+
+
+Note: Playing this game for data collection is a horrendous experience and it drains my lifeforce. In 30 battles I was able to get 1000 trophies which still isnt nearly enough data to get comprehensive analysis sigh. We keep going tomorow along with further enhancing the scraping script by adding more valuable attributes.
